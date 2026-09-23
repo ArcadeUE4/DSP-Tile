@@ -1,0 +1,10 @@
+Screen 5 6 
+0 1 1 1 1 0
+1 0 0 0 0 1
+1 0 1 1 0 1
+1 0 0 0 0 1
+0 1 1 1 1 0
+
+Tiles 2
+0 ../assets/water.png
+1 ../assets/black.png
